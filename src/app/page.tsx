@@ -15,8 +15,7 @@ export default function Home() {
         environment={environment}
         mintConfig={{
           type: "erc-721",
-          totalPrice: "10",
-          _quantity: "1", // this property name must match your mint function parameter name
+          totalPrice: "0.001",
         }}
       />
     </div>
