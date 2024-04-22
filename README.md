@@ -26,8 +26,8 @@ You can also use the `projectId` and `collectionId` values here to test things o
 > The Crossmint `projectId` and `collectionId` values are **not** sensitive and can be exposed.
 
 ```shell
-NEXT_PUBLIC_PROJECT_ID="42c43e55-f92d-4b25-bc99-d8309b6e1f38"
-NEXT_PUBLIC_COLLECTION_ID="f992e52c-afaa-46d5-9fba-214754383d0c"
+NEXT_PUBLIC_PROJECT_ID="fbe32003-fef9-484a-8beb-a5fcb3b0c3a6"
+NEXT_PUBLIC_COLLECTION_ID="c51e6e5b-6bb0-4fc6-8015-7fe2d780eb2c"
 NEXT_PUBLIC_ENVIRONMENT="staging"
 ```
 
